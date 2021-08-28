@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: '#f8f8f8';
+    color: '#29292E';
+}
+
+body, input, button, textarea {
+    font: 400 16px 'Roboto', sans-serif,
+}
+
+.button-outline {
+    height: 40px;
+    background-color: #FFF;
+    border: 1px solid #835AFD;
+    color: #835AFD;
+}
