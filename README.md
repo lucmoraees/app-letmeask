@@ -1,17 +1,20 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src="https://github.com/lucmoraees/letmeask/blob/master/public/assets/logo.svg" width="160px">
 </p>
 
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/lucmoraees/letmeask?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/lucmoraees/letmeask?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+<p align="center">	
+   <a href="https://www.linkedin.com/in/lucas-moraes-52b80a1b3/">
+      <img alt="Lucas Moraes" src="https://img.shields.io/badge/-lucasmoraes-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucmoraees/app-move.it?color=5863d2">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
+  <a href="https://github.com/lucmoraees/app-move.it/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/lucmoraees/app-move.it?color=5863d2&logo=github">
+  </a>
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" title="Letmeask" src="https://github.com/lucmoraees/letmeask/blob/master/public/assets/cover.svg" />
 </h1>
 
 <br>
@@ -52,7 +55,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 
 ---
