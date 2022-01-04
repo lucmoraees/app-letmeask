@@ -70,7 +70,7 @@ const AdminRoom = (): ReactElement => {
 					<span>{questions.length} {questions.length === 1 ? "Pergunta" : "Perguntas" }</span>
 				</div>
 				<div className="question-list">
-					{questions.length && questions.map(question => (
+					{questions.length ? questions.map(question => (
 						<Question
 							key={question.id}
 							content={question.content}
@@ -101,7 +101,9 @@ const AdminRoom = (): ReactElement => {
 								<img src={deleteImg} alt="Deletar pergunta" />
 							</button>
 						</Question>
-					))}
+					)) : (
+						<div />
+					)}
 				</div>
 			</main>
 		</div>
