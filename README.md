@@ -20,12 +20,19 @@
 <br>
 
 ## 🧪 Technologies
-
 This project was developed using the following technologies:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+## 📥 Layout:
+<div>
+    <img alt="Letmeask" title="Letmeask" src="https://github.com/lucmoraees/letmeask/blob/master/public/images/letmeask-1.png" width="400px" />
+    <img alt="Letmeask" title="Letmeask" src="https://github.com/lucmoraees/letmeask/blob/master/public/images/letmeask-2.png" width="400px" />
+    <img alt="Letmeask" title="Letmeask" src="https://github.com/lucmoraees/letmeask/blob/master/public/images/letmeask-3.png" width="400px" />
+    <img alt="Letmeask" title="Letmeask" src="https://github.com/lucmoraees/letmeask/blob/master/public/images/letmeask-4.png" width="400px" />
+</div>
 
 ## 🚀 Getting started
 
